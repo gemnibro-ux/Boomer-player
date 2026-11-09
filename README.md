@@ -15,6 +15,6 @@ Boomer - это псевдо4D плеер воспроизводящий сло�
 ```batch
 git clone https://github.com/gemnibro-ux/Boomer-player
 dotnet add package Raylib-cs
-cd Boomer
+cd Boomer-player
 dotnet run
 ```
